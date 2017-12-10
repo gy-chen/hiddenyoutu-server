@@ -1,5 +1,0 @@
-"""web
-
-provides APIs
-
-"""
